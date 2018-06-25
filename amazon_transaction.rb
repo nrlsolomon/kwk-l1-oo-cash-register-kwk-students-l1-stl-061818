@@ -1,1 +1,4 @@
-# Code your cash register here!
+def item1
+  
+  
+  
